@@ -30,12 +30,5 @@
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
-
-<<<<<<< HEAD
    <h1> Thankyou, Majid Karimi Thanks for doing that </h1>
-=======
-   <h1> Hello Majid How is it going </h1>
->>>>>>> cb177ee4964eeedcc49478efaa88b74afbddf9fc
-
-  
 </form>
