@@ -30,5 +30,9 @@
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
+<<<<<<< HEAD
    <h1> Thankyou, Majid Karimi  Ansible is integrated</h1>
+=======
+   <h1> Thankyou, Majid Karimi Nice </h1>
+>>>>>>> b72965a8ef04a77fbc8c2e899dfad84bba49a202
 </form>
