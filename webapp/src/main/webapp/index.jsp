@@ -30,5 +30,5 @@
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
-   <h1> Thankyou, Majid Karimi  Kubernetes is integrated and work fine (Final Step)</h1>
+   <h1> Thankyou, Majid Karimi  Kubernetes is integrated and work fine (Final Step) Awsome!!!</h1>
 </form>
