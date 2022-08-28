@@ -31,5 +31,5 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
    <h1> Thankyou Happy Learning</h1>
-   <h1>Powered by Kubernetes </h1>
+   <h1>Powered by Kubernetes 1.24 </h1>
 </form>
